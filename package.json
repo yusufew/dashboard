@@ -37,7 +37,7 @@
     "inquirer": "^6.2.2",
     "klaw": "^3.0.0",
     "marked": "^0.6.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.2.2",
     "passport": "^0.4.0",
     "passport-discord": "^0.1.3",
